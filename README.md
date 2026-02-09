@@ -43,15 +43,19 @@ Este proyecto fue creado como práctica de desarrollo de software orientado a ne
   <img width="800" height="480" alt="image" src="https://github.com/user-attachments/assets/778ef966-54c7-4bce-9368-79654ae133c8" />
 
 - Menú principal
+  
   <img width="797" height="480" alt="image" src="https://github.com/user-attachments/assets/6bab091f-7f18-46dd-9321-0bd16d4b2929" />
 
 - Módulo de ventas
+  
   <img width="799" height="427" alt="image" src="https://github.com/user-attachments/assets/682a1552-4fc7-4bc2-8379-0be59e460e02" />
 
 - Factura generada en PDF
+  
   <img width="1352" height="706" alt="image" src="https://github.com/user-attachments/assets/879cc806-2c12-4508-8f0a-be5af2f6e047" />
 
-- Reporte por fechas  
+- Reporte por fechas
+  
 <img width="802" height="379" alt="image" src="https://github.com/user-attachments/assets/cac18d74-6363-4eb0-96cf-473631114209" />
 
 
